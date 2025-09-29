@@ -7,3 +7,4 @@ WHERE marca = LOréal;
 
 UPDATE produtos SET preco = preco + (preco * 0.10);
 WHERE estoque > 100;
+

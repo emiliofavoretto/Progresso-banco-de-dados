@@ -1,0 +1,1 @@
+CREATE DATABASE beauty_tech_db
